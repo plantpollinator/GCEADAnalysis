@@ -16,7 +16,7 @@
 use strict;
 
 # Check if the script was run correctly; if not, exit after providing usage
-unless($ARGV[1] =~ /^[1-9]/) {
+unless($ARGV[1] =~ /^[0-9]/) {
     print "gcfid-peaksabove.pl GC-FID-signal.csv GC-FID-cutoff\n";
     exit;
 }
