@@ -1,3 +1,5 @@
+# PLEASE USE THE OTHER R SCRIPT; THIS ONE IS FROM AN OLDER VERSION OF THE MANUSCRIPT AND DATA ANALYSIS METHOD!
+
 # Author: Kelsey J.R.P. Byers (kbyers@alum.mit.edu)
 # License: MIT License
 
